@@ -2,9 +2,6 @@
 A Power BI dashboard for customer segmentation analysis using Excel data, featuring KPIs, interactive charts, and slicers.
 # 👥 Customer Segmentation Dashboard
 
-![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-Dataset-217346?logo=microsoftexcel&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 ---
 
@@ -46,25 +43,6 @@ The dashboard helps analyze customer behavior by visualizing spending patterns, 
 
 ---
 
-## 📷 Dashboard Preview
-
-> Upload your dashboard screenshot as **dashboard.png** in this repository.
-
-![Dashboard Preview](dashboard.png)
-
----
-
-## 📂 Repository Structure
-
-```
-Customer-Segmentation-Dashboard/
-│
-├── Customer_Segmentation_Dashboard.pbix
-├── Customer_Data.xlsx
-├── dashboard.png
-└── README.md
-```
-
 ---
 
 ## 📈 Key Insights
@@ -95,10 +73,10 @@ Customer-Segmentation-Dashboard/
 
 B.Tech Student | Aspiring Data Scientist
 
-GitHub: https://github.com/YOUR_USERNAME
+GitHub: https://github.com/kalaivani-cmd
 
-LinkedIn: https://www.linkedin.com/in/YOUR_LINKEDIN
+LinkedIn: https://www.linkedin.com/in/kalaivani-v24
 
 ---
 
-⭐ If you found this project helpful, consider giving it a star!
+
